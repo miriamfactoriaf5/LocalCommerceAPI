@@ -39,3 +39,10 @@ Consignas optativas:
 *Entregar documentación que instruya al cliente y a sus usuarios en cómo consumir esta API.
 
 *Incluir QA Test documentado.
+
+
+ENTREGABLES: 
+● Diseño de la base de datos.
+● Archivos de proyecto con .gitignore correspondiente.
+● Presentaciones orales intermedias.
+● Presentación final de los proyectos por equipos.
